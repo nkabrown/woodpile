@@ -1,0 +1,24 @@
+List of Chunks
+  - data structure
+  - variable types
+
+CHUNK
+
+term: Data matrix is a structure for organizing data where each row corresponds to a
+unique case and each column corresponds to a variable.
+
+CHUNK
+
+fact: Variables fall into one of two types, numerical or categorical
+
+term: Numerical variables designate variables that can take a wide range of numerical
+values and perform meaningful arithmetic operations on those values. If the variable has
+only integer values it is a discrete numberical variable. If the variable is not resolved
+to particular values it is a continuous numerical variable.
+
+term: integers include the natural numbers, the negatives of the natural numbers, and zero
+
+term: Categorical variables designate variables whose values indicate membership in one of
+several possible categories, known as levels. If the levels are ordered or ranked it is an
+ordinal categorical variable. If the levels are unordered it is a nominal categorical
+variable.

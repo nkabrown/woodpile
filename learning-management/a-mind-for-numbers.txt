@@ -1,0 +1,11 @@
+CHUNK
+
+fact: There are two distinctly different ways of thinking associated with two mutually
+exclusive brain states.
+
+term: Focused mode thinking is associated with highly attentive brain states. It's
+intense concentration seeking thought patterns to solve specific problems or understand
+concepts.
+
+term: Diffuse mode thinking is associated with resting brain states. It's unconscious
+scanning and processing seeking to make connections between distant ideas.
