@@ -2,12 +2,12 @@ List of Chunks
   - data structure
   - variable types
 
-CHUNK
+Data Structure CHUNK
 
 term: Data matrix is a structure for organizing data where each row corresponds to a
 unique case and each column corresponds to a variable.
 
-CHUNK
+Variable Types CHUNK
 
 fact: Variables fall into one of two types, numerical or categorical
 

@@ -1,4 +1,9 @@
-CHUNK
+List of Chunks
+ - two ways of thinking
+ - memory systems
+ - chunking
+
+Two Ways of Thinking CHUNK
 
 fact: There are two distinctly different ways of thinking associated with two mutually
 exclusive brain states.
@@ -9,3 +14,19 @@ concepts.
 
 term: Diffuse mode thinking is associated with resting brain states. It's unconscious
 scanning and processing seeking to make connections between distant ideas.
+
+Memory Systems CHUNK
+
+fact: There are two major memory systems relevant to learning: working memory and long-term memory.
+
+term: Working memory includes short-term memory storage but it is also the capability to transform information.
+
+term: Long-term memory is extensive but sometimes inaccessible information storage
+
+Chunking CHUNK
+
+term: Chunking is a mental activity that helps you make meaningful connections between individual bits of information.
+
+For example: "There are two sorts of reading. There is the sort we learned long ago, when we were five or six. The other
+sort is reading with understanding, receiving the text on the right wavelength." Additional mental actions, such as chunking,
+are required to make connections along the 'right wavelength'.
