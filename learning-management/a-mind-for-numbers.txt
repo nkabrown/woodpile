@@ -15,6 +15,12 @@ concepts.
 term: Diffuse mode thinking is associated with resting brain states. It's unconscious
 scanning and processing seeking to make connections between distant ideas.
 
+'...consciousness is not to be identified with any particular perceptual-cognitive
+functions such as discriminative response to stimulation, perception, memory, or
+the higher mental processes involved in judgement and problem-solving. All these
+functions can take place outside of phenomenal awareness.'
+(Kihlstrom - The Cognitive Unconscious)
+
 Memory Systems CHUNK
 
 fact: There are two major memory systems relevant to learning: working memory and long-term memory.
