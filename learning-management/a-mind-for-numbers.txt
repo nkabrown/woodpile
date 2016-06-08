@@ -8,12 +8,14 @@ Two Ways of Thinking CHUNK
 fact: There are two distinctly different ways of thinking associated with two mutually
 exclusive brain states.
 
-term: Focused mode thinking is associated with highly attentive brain states. It's
+term: Focused mode thinking is associated with highly attentive brain states and is
 intense concentration seeking thought patterns to solve specific problems or understand
-concepts.
+concepts. (or) is intense concentration seeking thought patterns enabling us to take concepts in hand to solve specific problems.
 
-term: Diffuse mode thinking is associated with resting brain states. It's unconscious
-scanning and processing seeking to make connections between distant ideas.
+'Concepts always constitute an organon: an instrument. We cannot think without them.' (Lacoste)
+
+term: Diffuse mode thinking is associated with resting brain states and is unconscious
+scanning and processing seeking to make connections between distant ideas and strengthening associations.
 
 '...consciousness is not to be identified with any particular perceptual-cognitive
 functions such as discriminative response to stimulation, perception, memory, or
@@ -23,11 +25,13 @@ functions can take place outside of phenomenal awareness.'
 
 Memory Systems CHUNK
 
-fact: There are two major memory systems relevant to learning: working memory and long-term memory.
+fact: There are three aspects of our memory systems relevant to learning: working memory, retrospective memory, and prospective memory.
 
 term: Working memory includes short-term memory storage but it is also the capability to transform information.
 
-term: Long-term memory is extensive but sometimes inaccessible information storage
+term: Retrospective memory
+
+term: Prospective memory is the ability to remember to execute goals in the future.
 
 Chunking CHUNK
 
